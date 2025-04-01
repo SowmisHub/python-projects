@@ -1,6 +1,4 @@
-Here's a more **detailed and attractive** version of the **README** for your **Snake Game Clone**. I've added more instructions in the "How to Play" section and formatted it to make it more engaging.
 
----
 
 # 🐍 Snake Game Clone 🐍
 
